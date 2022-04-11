@@ -1,5 +1,5 @@
 
-Commands:
+COMMANDS:
 
 php artisan migrate:refresh --seed 
 
