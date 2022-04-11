@@ -1,9 +1,7 @@
 
-Commands:
+COMMANDS:
 
-php artisan migrate:refresh --seed 
-
-<br>
+php artisan migrate:refresh --seed
 
 php artisan serve
 
