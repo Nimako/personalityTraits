@@ -1,5 +1,5 @@
 REQUIREMENTS
-PHP 7.4+
+PHP 7.4+ ,
 Laravel 8+ 
 
 
